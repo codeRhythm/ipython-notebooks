@@ -5,6 +5,10 @@ ipython-notebooks
 
 This repo contains various IPython notebooks I've created to experiment with libraries and work through exercises, and explore subjects that I find interesting.  I've included notebook viewer links below.  Click the link to see a live rendering of the notebook.
 
+####
+中文翻译文章：
+<a href="http://blog.csdn.net/and_w/article/details/52727795>机器学习练习（二）——多元线性回归</a><br/>
+
 #### Language
 
 These notebooks contain introductory content such as an overview of the language and a review of IPython's functionality.
