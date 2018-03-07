@@ -7,7 +7,7 @@ This repo contains various IPython notebooks I've created to experiment with lib
 
 ####
 中文翻译文章：
-<a href="http://blog.csdn.net/and_w/article/details/52727795>机器学习练习（二）——多元线性回归</a><br/>
+<a href="http://blog.csdn.net/and_w/article/details/52727795">机器学习练习（二）——多元线性回归</a><br/>
 
 #### Language
 
